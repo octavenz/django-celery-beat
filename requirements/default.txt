@@ -5,3 +5,4 @@ backports.zoneinfo; python_version<"3.9"
 tzdata
 python-crontab>=2.3.4
 cron-descriptor>=1.2.32
+setuptools<=71.1.0
